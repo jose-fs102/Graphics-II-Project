@@ -1,15 +1,14 @@
-# Demon Hunter Game
-Class: Structure of Game Design
+# Graphics II Project
+Class: Graphics II 
+
+Project: Graphics Project
 
 Author: Jose Rivera
 
-WARNING: Game may or may not build in Visual studio. Please use the GameProject.exe to 
-run the game. 
 
-With this project, I was tasked with designing a game and developing it using the
-sample code my instructor gave me. It included "Wrapper" classes that held much of the 
-game functionality such as rendering, audio and input. I had to implement the gameplay and 
-the flow of the game in code.
 
-This game was supposed to teach us of sprite animations, game states, and the math behind the sprites such as
-collision detection between sprites.
+This project was given to me by my instructor in order to teach me how the graphics pipeline works. This project was coded from scratch by me with the exception of the xtime class and .dds loader class.
+
+
+
+I implemented the .obj model loading and texture loading. I implemented the lighting and sky box as well. The Skyrim Logo has tessellation applied to it as well.
